@@ -9,5 +9,6 @@ export class AppComponent {
 <<<<<<< HEAD
   title = 'Hello World in Angular!! by atul asrani';
 =======
+  title = 'Hello World in Angular by Chirag!!';
 >>>>>>> pr/1
 }
