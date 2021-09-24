@@ -6,9 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-<<<<<<< HEAD
-  title = 'Hello World in Angular!! by atul asrani';
-=======
-  title = 'Hello World in Angular by Chirag!!';
->>>>>>> pr/1
+  title = 'Hello World in Angular by Chirag accepted';
 }
